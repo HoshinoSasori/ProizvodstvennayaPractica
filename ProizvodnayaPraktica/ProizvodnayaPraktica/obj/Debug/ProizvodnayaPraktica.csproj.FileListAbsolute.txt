@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\ProizvodnayaPraktica\ProizvodnayaPraktica\bin\Debug\ProgramName.accdb
+C:\Users\user\source\repos\ProizvodnayaPraktica\ProizvodnayaPraktica\bin\Debug\ProizvodnayaPraktica.exe.config
+C:\Users\user\source\repos\ProizvodnayaPraktica\ProizvodnayaPraktica\bin\Debug\ProizvodnayaPraktica.exe
+C:\Users\user\source\repos\ProizvodnayaPraktica\ProizvodnayaPraktica\bin\Debug\ProizvodnayaPraktica.pdb
+C:\Users\user\source\repos\ProizvodnayaPraktica\ProizvodnayaPraktica\obj\Debug\ProizvodnayaPraktica.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ProizvodnayaPraktica\ProizvodnayaPraktica\obj\Debug\ProizvodnayaPraktica.Form1.resources
+C:\Users\user\source\repos\ProizvodnayaPraktica\ProizvodnayaPraktica\obj\Debug\ProizvodnayaPraktica.Properties.Resources.resources
+C:\Users\user\source\repos\ProizvodnayaPraktica\ProizvodnayaPraktica\obj\Debug\ProizvodnayaPraktica.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ProizvodnayaPraktica\ProizvodnayaPraktica\obj\Debug\ProizvodnayaPraktica.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ProizvodnayaPraktica\ProizvodnayaPraktica\obj\Debug\ProizvodnayaPraktica.exe
+C:\Users\user\source\repos\ProizvodnayaPraktica\ProizvodnayaPraktica\obj\Debug\ProizvodnayaPraktica.pdb
